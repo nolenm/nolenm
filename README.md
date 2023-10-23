@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Mike Nolen
+### I'm currently working on a degree in programming through Lansing Community College.
+### This semester I'm working on intro classes for HTML & CSS Development
+### and Mobile Application Development.
 
 <!--
 **nolenm/nolenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
